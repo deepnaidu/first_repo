@@ -4,3 +4,4 @@ press "q" to quit and back to command prompt.
 git log - show logs and also shows the hash ID's unique ID's 
 git status - shows the status of local repository. 
 git add --help command will show you full description on how to use the command "add". similarly we can check for others. 
+git branch creates new branch. 
